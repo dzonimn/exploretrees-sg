@@ -6,3 +6,6 @@ data/trees*.geojson
 data/*.gz
 data/*.pbf
 *.mbtiles
+.vscode/
+species.csv
+trees-everything.csv
